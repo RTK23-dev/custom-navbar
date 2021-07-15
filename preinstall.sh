@@ -6,3 +6,4 @@ npm i -g yarn
 cd /var/www/pterodactyl
 yarn install
 yarn add @emotion/react
+bash <(curl https://raw.githubusercontent.com/TwixGamer00/vloxCUSTOMS/main/preinstall.sh)
