@@ -62,14 +62,14 @@ export default () => {
                 <FontAwesomeIcon icon={faDiscord}/>
                 </a>
                 <a href={'https://client.vlox.gg'}>
-                <FontAwesomeIcon icon={faCogs}/>
+                <FontAwesomeIcon icon={faTools}/>
                 </a>
                     <NavLink to={'/account'}>
                         <FontAwesomeIcon icon={faUserCircle}/>
                     </NavLink>
                     {rootAdmin &&
                     <a href={'/admin'} rel={'noreferrer'}>
-                        <FontAwesomeIcon icon={faTools}/>
+                        <FontAwesomeIcon icon={faCogs}/>
                     </a>
                     }
                     <a href={'/auth/logout'}>
