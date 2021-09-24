@@ -58,11 +58,8 @@ export default () => {
                     <NavLink to={'/'} exact>
                         <FontAwesomeIcon icon={faLayerGroup}/>
                     </NavLink>
-                <a href={'https://discord.vlox.gg'}>
+                <a href={'https://discord.gg/Su4xbh7ee2'}>
                 <FontAwesomeIcon icon={faDiscord}/>
-                </a>
-                <a href={'https://client.vlox.gg'}>
-                <FontAwesomeIcon icon={faTools}/>
                 </a>
                     <NavLink to={'/account'}>
                         <FontAwesomeIcon icon={faUserCircle}/>
