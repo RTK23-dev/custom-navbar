@@ -58,7 +58,7 @@ export default () => {
                     <NavLink to={'/'} exact>
                         <FontAwesomeIcon icon={faLayerGroup}/>
                     </NavLink>
-                <a href={'https://discord.gg/Su4xbh7ee2'}>
+                <a href={'https://discord.gg/'}>
                 <FontAwesomeIcon icon={faDiscord}/>
                 </a>
                     <NavLink to={'/account'}>
