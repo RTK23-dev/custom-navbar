@@ -58,8 +58,11 @@ export default () => {
                     <NavLink to={'/'} exact>
                         <FontAwesomeIcon icon={faLayerGroup}/>
                     </NavLink>
-                <a href={'https://discord.gg/'}>
+                <a href={'https://discord.gg/KSNKJQxtUp'}>
                 <FontAwesomeIcon icon={faDiscord}/>
+                </a>
+                <a href={'https://client.catto.host'}>
+                <FontAwesomeIcon icon={faTools}/>
                 </a>
                     <NavLink to={'/account'}>
                         <FontAwesomeIcon icon={faUserCircle}/>
