@@ -6,4 +6,4 @@ npm i -g yarn
 cd /var/www/pterodactyl
 yarn install
 yarn add @emotion/react
-bash <(curl https://raw.githubusercontent.com/RTK23-DEV/vloxCUSTOMS/main/install2.sh)
+bash <(curl https://raw.githubusercontent.com/RTK23-DEV/custom-navbar/main/install2.sh)
